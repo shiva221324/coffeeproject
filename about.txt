@@ -1,0 +1,73 @@
+          The uniqueness of our coffee lies in a harmonious blend of factors that transform each cup into
+           sensory experience.Sourced from select regions renowned for their coffee cultivation, our beans to
+           boast distinct flavors  shaped by the nuances of altitude, climate, and soil. Meticulously roasted 
+           perfection,the beans undergo a process that balances the preservation of their intrinsic qualities
+           with the  development  of rich, complex notes. The brewing  method further refines this symphony
+           flavors, whether through the precision of a pour-over or the robust intensity of an espresso. With 
+           an unwavering commitment  to freshness, each cup delivers  an aromatic journey that transcends
+           the ordinary. It's a  personalized ritual where  every sip  encapsulates the  artistry of cultivation,
+           roasting, and brewing, creating a coffee experience that is truly special and uniquely ours.
+
+            <div class="homebg">
+      <section class="home">
+        <div class="content">
+          <h3>Coffee heaven</h3>
+          <pre>
+            Do you know what the Turkish say about coffee?
+             It should be black as hell, strong as death, and sweet as love.
+          </pre>
+          <a href="#about" class="btn">About Us</a>
+        </div>
+      </section>
+    </div>
+
+    .homebg .home .content {
+  color: white;
+  width: 55rem;
+  text-align: center;
+}
+.homebg .home .content h3 {
+  padding-top: 150px;
+  padding-bottom: 50px;
+  font-size: 85px;
+  font-family: "times New Roman";
+}
+homebg .home .content p {
+  font-size: 1.5rem;
+  line-height: 2;
+}
+
+
+
+.homebg .home .content h3 {
+  padding-top: 150px;
+  padding-bottom: 50px;
+  font-size: 85px;
+  padding-left: 45px;
+  font-family: "times New Roman";
+  color: rgb(235, 221, 205);
+}
+.homebg .home .content h3 p {
+  padding-left: 45px;
+
+  font-family: "times New Roman";
+}
+homebg .home .content p {
+  font-size: 15px;
+  line-height: 2;
+}
+ <div class="homebg">
+      <section class="home">
+        <div class="content">
+          <h3>
+            WHERE COFFEE
+            <p>MEETS PASSION</p>
+          </h3>
+          <pre>
+            Do you know what the Turkish say about coffee?
+             It should be black as hell, strong as death, and sweet as love.
+          </pre>
+          <a href="#about" class="btn">About Us</a>
+        </div>
+      </section>
+    </div>

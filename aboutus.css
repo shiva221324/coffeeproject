@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "poppins", sans-serif;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+.head a:hover {
+  color: gold;
+}
+.head {
+  /* background-image: url(abstract-smooth-brown-wall-background-layout-design-web-template-business-report-with-smooth-circle-gradient-color.jpg);*/
+  background-color: rgb(43, 43, 43);
+  width: 100%;
+  top: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 18px 50px;
+}
+.navbar {
+  color: white;
+  display: flex;
+  font-size: 18px;
+  gap: 35px;
+}
+.icons {
+  display: flex;
+  gap: 20px;
+  color: #fff;
+  cursor: pointer;
+}
+.logo {
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.4rem;
+  text-decoration: none;
+}
+.aboutus {
+  background: url("aboutimg.png") no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+.aboutus .about {
+  min-height: 100%;
+}
+.about .content span {
+  font-size: 27px;
+  color: rgb(190, 152, 104);
+}
+.about .title {
+  padding-top: 10px;
+  color: rgb(159, 102, 62);
+  font-size: 37px;
+}
+.about .content span {
+  position: absolute;
+  top: 33%;
+  left: 6%;
+}
+.about .title {
+  position: absolute;
+  top: 37%;
+  left: 6%;
+}
+.about .content pre {
+  position: absolute;
+  top: 48%;
+  left: 2%;
+}
+.about .content a {
+  position: absolute;
+  top: 63%;
+  left: 6%;
+  padding: 7px;
+  font-weight: 500;
+  font-size: 18px;
+  background-color: rgb(196, 157, 60);
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+}
+.about .content .icons {
+  position: absolute;
+  top: 72%;
+  left: 5%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+.content .icons .icon {
+  padding: 30px;
+  background-color: rgb(103, 103, 103);
+  text-align: center;
+  border-radius: 6px;
+}
+.content .icons .icon i {
+  font-size: 40px;
+  margin-bottom: 5px;
+  color: rgb(0, 0, 0);
+}
+.content {
+  dispay: flex;
+  flex-direcion: column;
+  justify-conent: space-around;
+}
